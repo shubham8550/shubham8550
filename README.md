@@ -67,3 +67,4 @@
 [jsplaylist]: #
 [cssplaylist]: #
 [reactplaylist]: #
+[webdevplaylist]: #
