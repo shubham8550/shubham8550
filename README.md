@@ -36,7 +36,7 @@
 <br />
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham8550&show_icons=true&include_all_commits=true&hide_border=true" alt="Shubham8850's github stats" />
 
