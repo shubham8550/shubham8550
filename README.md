@@ -59,7 +59,7 @@
 ---
 
 
-[website]: https://shubhambadgujar.com
+[website]: https://shubham8550.github.io/
 [twitter]: https://twitter.com/shubhampb8550
 [youtube]: https://www.youtube.com/channel/UCwK6tHAd5kE18svzfMGLHMw
 [instagram]: https://www.instagram.com/shubhambadgujar222/
