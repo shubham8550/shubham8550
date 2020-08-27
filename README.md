@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham Badgujar - aka [shubham8550][website] 👋
 
 ## I'm a Student, Developer!
-- 🔭 I’m currently working on a [Dynamic Image Gen. API][cproject]!
+- 🔭 I’m currently working on a [Load balancer of Dynamic Image Gen. API][cproject]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -69,7 +69,7 @@
 
 ---
 
-[cproject]: https://dynamage.glitch.me
+[cproject]: https://loadbalencer.glitch.me/
 [website]: https://shubham8550.github.io/
 [twitter]: https://twitter.com/shubhampb8550
 [youtube]: https://www.youtube.com/channel/UCwK6tHAd5kE18svzfMGLHMw
