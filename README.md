@@ -41,19 +41,16 @@
 [<img align="left" alt="Flutter" width="30px" src="https://papercallio-production.s3.amazonaws.com/uploads/event/logo/3551/logo_flutter_1080px_clr.png" />][webdevplaylist]
 [<img align="left" alt="AOSP" width="30px" src="https://avatars3.githubusercontent.com/u/13136370?s=280&v=4" />][webdevplaylist]
 [<img align="left" alt="AXD" width="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />][webdevplaylist]
-
 <br />
-and more wierd stuffs
 <br />
 
 ---
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+and more wierd stuffs
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham8550&show_icons=true&include_all_commits=true&hide_border=true" alt="Shubham8850's github stats" />
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham8550&hide_border=true" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham8550&hide_border=true" />  -->
 
 
 ---
