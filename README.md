@@ -42,8 +42,8 @@
 [<img align="left" alt="AOSP" width="30px" src="https://avatars3.githubusercontent.com/u/13136370?s=280&v=4" />][webdevplaylist]
 [<img align="left" alt="AXD" width="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />][webdevplaylist]
 
-and more wierd stuffs
 <br />
+and more wierd stuffs
 <br />
 
 ---
