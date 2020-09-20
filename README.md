@@ -67,7 +67,7 @@ and more wierd stuffs
 
 ---
 
-[cproject]: https://loadbalencer.glitch.me/
+[cproject]: https://dynamage.herokuapp.com/
 [website]: https://shubham8550.github.io/
 [twitter]: https://twitter.com/shubhampb8550
 [youtube]: https://www.youtube.com/channel/UCwK6tHAd5kE18svzfMGLHMw
