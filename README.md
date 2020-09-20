@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Code and play Flute / piano
+- ⚡ Fun fact: I love to Code and Anime
 
 ### Connect with me:
 
