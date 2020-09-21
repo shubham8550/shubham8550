@@ -53,11 +53,12 @@ and more wierd stuffs.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham8550&show_icons=true&include_all_commits=true&theme=radical" alt="Shubham's github stats" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham8550&layout=compact&theme=radical" />
-
+<a href="https://github.com/shubham8550/aqua-wa-automate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham8550&repo=aqua-wa-automate&theme=radical" />
-   
+ </a>  
+ <a href="https://github.com/shubham8550/NinjaCloud-Client-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham8550&repo=NinjaCloud-Client-Flutter&theme=radical" />
-
+</a>
 
 ---
 
