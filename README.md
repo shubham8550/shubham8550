@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other Developer's
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Anime
-- G FooBar Player
+- Google FooBar
 
 ### Connect with me:
 
