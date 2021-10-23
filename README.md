@@ -1,10 +1,10 @@
 ### Hi there, I'm Shubham Badgujar - aka [shubham8550][website] 👋
 
 ## I'm a Student, Developer!
-- 🔭 I’m currently working on a [Discord Bot][cproject]!
+- 🔭 I’m currently working on a [----][cproject]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer's
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and Anime
 - Google FooBar
 
