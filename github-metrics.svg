@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yeemachine/kalidokit</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 14 2021</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.</div>
@@ -2029,7 +2029,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2022, 08:14:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 08:55:19 (timezone Asia/Kolkata) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
