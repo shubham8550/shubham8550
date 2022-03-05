@@ -1455,7 +1455,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getlarge/ticketing</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Microservices example using NestJS, Kubernetes in Nx workspace</div>
@@ -1502,7 +1502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocornut/imgui</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</div>
@@ -1555,7 +1555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastai/fastbook</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The fastai book, published as Jupyter Notebooks</div>
@@ -2026,7 +2026,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2022, 22:00:49 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 5 Mar 2022, 22:50:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
