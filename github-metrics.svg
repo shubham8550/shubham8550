@@ -1512,7 +1512,7 @@
                                         <span>starred 5 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Minimalistic general-purpose programming language.</div>
+                                <div class="field description">The Ethereal Programming Language</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2046,7 +2046,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Mar 2022, 13:57:12 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 11 Mar 2022, 14:52:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
