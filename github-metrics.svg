@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/docusaurus</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy to maintain open source documentation websites.</div>
@@ -1603,7 +1603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ocornut/imgui</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</div>
@@ -2027,7 +2027,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Mar 2022, 22:10:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 18 Mar 2022, 22:53:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
