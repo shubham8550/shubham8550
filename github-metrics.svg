@@ -1620,7 +1620,7 @@
                                         <span>starred May 23 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">MoonOS (just a kernel atm) is a micro kernel designed for the x86 architecure supporting 64 bit processors only</div>
+                                <div class="field description">MoonOS (just a kernel atm) is a micro kernel designed for the x86_64 and arm architecure.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2099,7 +2099,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Aug 2022, 07:09:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 08:21:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
