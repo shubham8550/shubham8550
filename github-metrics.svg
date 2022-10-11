@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    208k added, 177k removed
+                                    35.9k added, 7.50k removed
                                 </div>
                             </section>
                             <section>
@@ -376,7 +376,7 @@
                 </h2>
                 <div class="row organization contributions">
                     <div class="organization contribution  ">
-                        <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
+                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@Hungreebee-Technologies</span>
                     </div>
                 </div>
@@ -1496,7 +1496,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        416
+                                        418
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1581,7 +1581,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>r0oth3x49/ghauri</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws</div>
@@ -2090,7 +2090,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Oct 2022, 14:40:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 11 Oct 2022, 15:37:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
