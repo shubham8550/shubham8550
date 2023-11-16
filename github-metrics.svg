@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>immich-app/immich</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted photo and video backup solution directly from your mobile phone.</div>
@@ -1933,7 +1933,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 291k out of 123m users</span>
+                                    <span class="gh">ranked 272k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 76 public repositories</div>
                             </div>
@@ -2086,7 +2086,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 140k out of 123m users</span>
+                                    <span class="gh">ranked 140k out of 122m users</span>
                                 </div>
                                 <div class="text">Followed by 75 users</div>
                             </div>
@@ -2096,7 +2096,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2023, 19:48:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 20:50:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
