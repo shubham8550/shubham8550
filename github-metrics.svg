@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datacurve-ai/deep-swe</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Measuring frontier coding agents on original, long-horizon engineering tasks</div>
@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SWE-agent/mini-swe-agent</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!</div>
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2026, 02:12:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jul 2026, 03:07:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
